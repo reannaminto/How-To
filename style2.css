@@ -1,0 +1,11 @@
+body {
+background-color:#80e5ff;
+font-family:"American Typewriter";
+}
+
+#pic1 { 
+ display: -webkit-flex; /* Safari */
+    -webkit-justify-content: space-around; /* Safari 6.1+ */
+    display: flex;
+    justify-content: flex-end;
+}
